@@ -53,3 +53,4 @@ The Facial Recognition Attendance System is a desktop application developed in P
 <img width="1440" alt="3" src="https://github.com/Aggarwal-Gavesh-25/Facial_Recognition_Attendance_System/assets/118240223/7a692c3a-c029-47e3-b0e9-92dc7f4cca57">
 
 - detect_face_video.py :-
+<img width="1440" alt="4" src="https://github.com/Aggarwal-Gavesh-25/Facial_Recognition_Attendance_System/assets/118240223/13585ad9-7457-4a13-affc-80ec2f66001c">
